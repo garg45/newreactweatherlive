@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newreactweatherlive/static/css/main.5f7ba544.css",
+    "main.js": "/newreactweatherlive/static/js/main.27304e11.js",
+    "index.html": "/newreactweatherlive/index.html",
+    "main.5f7ba544.css.map": "/newreactweatherlive/static/css/main.5f7ba544.css.map",
+    "main.27304e11.js.map": "/newreactweatherlive/static/js/main.27304e11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f7ba544.css",
+    "static/js/main.27304e11.js"
+  ]
+}
